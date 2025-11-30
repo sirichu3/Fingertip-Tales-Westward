@@ -1,0 +1,27 @@
+# Virtual environments
+.venv*/
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Large files
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+*.egg-info/
+dist/
+build/
