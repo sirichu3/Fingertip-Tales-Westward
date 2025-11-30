@@ -1,0 +1,18 @@
+{
+  "origin": [
+    480,
+    300
+  ],
+  "angles": {
+    "waist": 0.0,
+    "body": 0.0,
+    "head": 0.0,
+    "left_leg": 53.13010235415598,
+    "right_leg": -45.0,
+    "left_upper_arm": 108.43494882292202,
+    "left_lower_arm": 26.565051177077976,
+    "right_upper_arm": -99.7275785514016,
+    "right_lower_arm": -30.077992540863605
+  },
+  "timestamp": "20251112_174020"
+}

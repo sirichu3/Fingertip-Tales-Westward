@@ -1,0 +1,97 @@
+{
+  "__config__": {
+    "autoscale": false
+  },
+  "anchors": {
+    "head": {
+      "image": "../vision_resources/niu/head.png",
+      "dx": -34.0,
+      "dy": 0.0,
+      "rot": 6.0,
+      "scale": 0.11550429184674388,
+      "use_joint_pivot": false,
+      "pivot_rx": 0.3,
+      "pivot_ry": 0.911764705882353
+    },
+    "body": {
+      "image": "../vision_resources/niu/body.png",
+      "dx": -10.0,
+      "dy": -30.0,
+      "rot": -1.0,
+      "scale": 0.14172795854765496,
+      "use_joint_pivot": false,
+      "pivot_rx": 0.4,
+      "pivot_ry": 0.911764705882353
+    },
+    "waist": {
+      "image": "../vision_resources/niu/waist.png",
+      "dx": -12.0,
+      "dy": -20.0,
+      "rot": 0.0,
+      "scale": 0.17533608181903063,
+      "use_joint_pivot": false,
+      "pivot_rx": 0.4,
+      "pivot_ry": 0.3
+    },
+    "left_upper_arm": {
+      "image": "../vision_resources/niu/leftarm.png",
+      "dx": 22.0,
+      "dy": -20.0,
+      "rot": 51.0,
+      "scale": 0.12669180430491214,
+      "use_joint_pivot": false,
+      "pivot_rx": 0.5,
+      "pivot_ry": 0.0
+    },
+    "left_lower_arm": {
+      "image": "../vision_resources/niu/lefthand.png",
+      "dx": -32.0,
+      "dy": -52.0,
+      "rot": 46.0,
+      "scale": 0.12519491640684566,
+      "use_joint_pivot": false,
+      "pivot_rx": 0.4,
+      "pivot_ry": 0.911764705882353
+    },
+    "right_upper_arm": {
+      "image": "../vision_resources/niu/rightarm.png",
+      "dx": 6.0,
+      "dy": -72.0,
+      "rot": -32.0,
+      "scale": 0.14745896615336127,
+      "use_joint_pivot": false,
+      "pivot_rx": 0.4,
+      "pivot_ry": 0.911764705882353
+    },
+    "right_lower_arm": {
+      "image": "../vision_resources/niu/righthand.png",
+      "dx": 24.0,
+      "dy": -64.0,
+      "rot": -48.0,
+      "scale": 0.12302876717461483,
+      "use_joint_pivot": false,
+      "pivot_rx": 0.4,
+      "pivot_ry": 0.911764705882353
+    },
+    "left_leg": {
+      "image": "../vision_resources/niu/leftfoot.png",
+      "dx": 0.0,
+      "dy": -96.0,
+      "rot": 0.0,
+      "scale": 0.1445433307178777,
+      "use_joint_pivot": false,
+      "pivot_rx": 0.4,
+      "pivot_ry": 0.911764705882353
+    },
+    "right_leg": {
+      "image": "../vision_resources/niu/rightfoot.png",
+      "dx": 0.0,
+      "dy": -98.0,
+      "rot": -5.0,
+      "scale": 0.13539034082298027,
+      "use_joint_pivot": false,
+      "pivot_rx": 0.4,
+      "pivot_ry": 0.911764705882353
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "__config__": {
+    "autoscale": false
+  },
+  "anchors": {
+    "head": {
+      "image": "../vision_resources/sun/head.png",
+      "dx": 0.0,
+      "dy": 72.0,
+      "rot": 0.0,
+      "scale": 0.1347185208884606
+    },
+    "body": {
+      "image": "../vision_resources/sun/body.png",
+      "dx": 0.0,
+      "dy": 10.0,
+      "rot": 0.0,
+      "scale": 0.178862444727782
+    },
+    "waist": {
+      "image": "../vision_resources/sun/waist.png",
+      "dx": 0.0,
+      "dy": 10.0,
+      "rot": 0.0,
+      "scale": 0.1526035676796036
+    },
+    "left_upper_arm": {
+      "image": "../vision_resources/sun/leftarm.png",
+      "dx": 26.0,
+      "dy": -12.0,
+      "rot": 45.0,
+      "scale": 0.13967771424616562
+    },
+    "left_lower_arm": {
+      "image": "../vision_resources/sun/lefthand.png",
+      "dx": -30.0,
+      "dy": -62.0,
+      "rot": -133.0,
+      "scale": 0.15978396352878588
+    },
+    "right_upper_arm": {
+      "image": "../vision_resources/sun/rightarm.png",
+      "dx": -26.0,
+      "dy": -12.0,
+      "rot": -44.0,
+      "scale": 0.1422058176714356
+    },
+    "right_lower_arm": {
+      "image": "../vision_resources/sun/righthand.png",
+      "dx": -24.0,
+      "dy": -6.0,
+      "rot": -44.0,
+      "scale": 0.1434946985561917
+    },
+    "left_leg": {
+      "image": "../vision_resources/sun/leftfoot.png",
+      "dx": -2.0,
+      "dy": 12.0,
+      "rot": 0.0,
+      "scale": 0.13110506187562604
+    },
+    "right_leg": {
+      "image": "../vision_resources/sun/rightfoot.png",
+      "dx": 0.0,
+      "dy": 12.0,
+      "rot": 0.0,
+      "scale": 0.13437744972022425
+    }
+  }
+}

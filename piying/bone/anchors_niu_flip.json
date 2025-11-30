@@ -1,0 +1,106 @@
+{
+  "__config__": {
+    "autoscale": false
+  },
+  "anchors": {
+    "head": {
+      "image": "../vision_resources/niu/head.png",
+      "dx": 34.0,
+      "dy": -2.0,
+      "rot": 0.0,
+      "scale": 0.11550429184674388,
+      "use_joint_pivot": false,
+      "pivot_rx": 0.3,
+      "pivot_ry": 0.911764705882353,
+      "flip_h": true
+    },
+    "body": {
+      "image": "../vision_resources/niu/body.png",
+      "dx": 10.0,
+      "dy": -32.0,
+      "rot": -1.0,
+      "scale": 0.14172795854765496,
+      "use_joint_pivot": false,
+      "pivot_rx": 0.4,
+      "pivot_ry": 0.911764705882353,
+      "flip_h": true
+    },
+    "waist": {
+      "image": "../vision_resources/niu/waist.png",
+      "dx": 12.0,
+      "dy": -28.0,
+      "rot": 0.0,
+      "scale": 0.17533608181903063,
+      "use_joint_pivot": false,
+      "pivot_rx": 0.4,
+      "pivot_ry": 0.3,
+      "flip_h": true
+    },
+    "left_upper_arm": {
+      "image": "../vision_resources/niu/rightarm.png",
+      "dx": 26.0,
+      "dy": -12.0,
+      "rot": 43.0,
+      "scale": 0.12669180430491214,
+      "use_joint_pivot": false,
+      "pivot_rx": 0.5,
+      "pivot_ry": 0.0,
+      "flip_h": true
+    },
+    "left_lower_arm": {
+      "image": "../vision_resources/niu/righthand.png",
+      "dx": -22.0,
+      "dy": -58.0,
+      "rot": 46.0,
+      "scale": 0.12519491640684566,
+      "use_joint_pivot": false,
+      "pivot_rx": 0.4,
+      "pivot_ry": 0.911764705882353,
+      "flip_h": true
+    },
+    "right_upper_arm": {
+      "image": "../vision_resources/niu/leftarm.png",
+      "dx": 20.0,
+      "dy": -64.0,
+      "rot": -38.0,
+      "scale": 0.14745896615336127,
+      "use_joint_pivot": false,
+      "pivot_rx": 0.4,
+      "pivot_ry": 0.911764705882353,
+      "flip_h": true
+    },
+    "right_lower_arm": {
+      "image": "../vision_resources/niu/lefthand.png",
+      "dx": 20.0,
+      "dy": -46.0,
+      "rot": -43.0,
+      "scale": 0.12302876717461483,
+      "use_joint_pivot": false,
+      "pivot_rx": 0.4,
+      "pivot_ry": 0.911764705882353,
+      "flip_h": true
+    },
+    "left_leg": {
+      "image": "../vision_resources/niu/rightfoot.png",
+      "dx": 6.0,
+      "dy": -94.0,
+      "rot": -2.0,
+      "scale": 0.1445433307178777,
+      "use_joint_pivot": false,
+      "pivot_rx": 0.4,
+      "pivot_ry": 0.911764705882353,
+      "flip_h": true
+    },
+    "right_leg": {
+      "image": "../vision_resources/niu/leftfoot.png",
+      "dx": 4.0,
+      "dy": -92.0,
+      "rot": -5.0,
+      "scale": 0.13539034082298027,
+      "use_joint_pivot": false,
+      "pivot_rx": 0.4,
+      "pivot_ry": 0.911764705882353,
+      "flip_h": true
+    }
+  }
+}
